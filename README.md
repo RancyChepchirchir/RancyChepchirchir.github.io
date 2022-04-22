@@ -34,25 +34,23 @@ With the advent of high frequency data, the sum of squared returns between trade
 The study was conducted across three agricultural commodities, namely; corn, cotton and wheat against a number of weather variables, including; temperature, rainfall, precipitation, sea level pressure, snow, fog and hail. This is after dropping a number of weather variables that are highly correlated from the correlation matrix. The results indicate significance of these exogenous variables in explaining the price variations as seen from the p-values of 0.00 across the three commodities. The SARIMAX prediction also did well for Corn and Cotton prices as seen by the sufficiently high r2 score as opposed to the estimate gotten from wheat. (Yet to study the same applying AI techniques).
 
 **Keywords: SARIMAX, Weather Shocks, Price Volatility**
-![Image](/home/rancy/Documents/time_series_snow.png)
-![time_series_snow](https://user-images.githubusercontent.com/50427374/164797153-b40b9d95-6e04-456b-8ef6-5ee72148f31a.png)
-l)
+![](https://user-images.githubusercontent.com/50427374/164797153-b40b9d95-6e04-456b-8ef6-5ee72148f31a.png)
 
 ### Crude Oil Price Modeling
 
 Energy remains an essential pillar for human livelihood for its necessity in sustainability and development of any current civilization. One of the main feature distinguishing it from most of the other commodities is the mean-reverting characteristic together with evident spikes and high volatility as seen for electricity and crude oil prices. Here, we’ll look at crude oil daily spot prices. A number of works have employed the Ornstein–Uhlenbeck process to model directly the dynamics over time of different commodity spot prices under reduced-form one-factor models (Ribeiro and Hodges, 2004). Nonetheless, in recent studies, crude oil spot price has also been modelled as a jump-diffusion process, as attributed to Merton (1976), as in Jorion (1988) for asset returns and Ball & Torous (1983) for foreign exchange and other securities. Moreover, due to the presence of skewness and fat tails in the empirical distribution of oil price returns, the series is more effectively modeled using Levy models which assign higher probabilities to sudden unexpected events unlike the gaussian models like Black Scholes model. These jump-diffusion models incorporate jumps into a diffusion process through a Poisson process with parameter, λ.
 
 **Keywords: Crude Oil Price Modeling, Jump-diffusion models, Poisson process**
-![crude_oil_price](https://user-images.githubusercontent.com/50427374/164797859-f7d15ddc-acd5-4b0e-a3ec-6586db244597.png)
-[Link](https://rpubs.com/Rancy/636078)
+![](https://user-images.githubusercontent.com/50427374/164797859-f7d15ddc-acd5-4b0e-a3ec-6586db244597.png)
+[](https://rpubs.com/Rancy/636078)
 
 ### Carbon Emission Modeling
 
 Energy remains an essential pillar for human livelihood for its necessity in sustainability and development of any current civilization. One of the main feature distinguishing it from most of the other commodities is the mean-reverting characteristic together with evident spikes and high volatility as seen for electricity prices. Here, we’ll look at carbon emission in Kenya. A number of works have employed the Ornstein–Uhlenbeck process to model directly the dynamics over time of different commodity spot prices under reduced-form one-factor models (Ribeiro and Hodges, 2004). Here, we derive the analytical solution to the stochastic differential equation for the Ornstein-Uhlenbeck process: dXt=κ(θ−Xt)dt+σdWt where the Wt is a standard wiener process, and κ>0, θ and σ>0 Motivated by the observation that θ is supposed to be the long-term mean of the process Xt, we can simplify the above SDE by introducing the change of variable; Yt=Xt−θ that subtracts off the mean. The Yt satisfies the SDE; dYt=dXt=−κYtdt+σdWt for this SDE, the process Yt is seen to have a drift towards zero value, at an exponential rate κ. This motivates the change of variables; Yt=e−κtZt ⇔ Zt=eκtYt , which should remove the drift. The O-U process does a pretty good work on our dataset.
 
 **Keywords: O-U process, Carbon emission**
-![carbon_emission_levels](https://user-images.githubusercontent.com/50427374/164798021-7929a641-b669-44f9-a1c9-29b4004c0dd5.png)
-[Link](https://rpubs.com/Rancy/624898)
+![](https://user-images.githubusercontent.com/50427374/164798021-7929a641-b669-44f9-a1c9-29b4004c0dd5.png)
+[](https://rpubs.com/Rancy/624898)
 
 ## AI Projects
 
