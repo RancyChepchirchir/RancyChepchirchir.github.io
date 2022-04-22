@@ -19,15 +19,15 @@ This study examines the impact of introduction of futures trading on the spot pr
 
 **Keywords: derivatives, futures exchange, agricultural commodities, spot price volatility**
 [](http://pubs.sciepub.com/jfe/5/3/1/index.html#Figure4)
-![futures_market](https://user-images.githubusercontent.com/50427374/164796942-0e56ee97-fb5c-4b08-9508-71a358121b42.png)
+![](https://user-images.githubusercontent.com/50427374/164796942-0e56ee97-fb5c-4b08-9508-71a358121b42.png)
 
 ### Currency Portfolio Optimization With an Innovative Covariance Matrix Estimator (qmle)
 
 With the advent of high frequency data, the sum of squared returns between trades which is the most common estimator, is biased by microstructure effects like bid-ask bounce thus the need to drop most of the data. Nonetheless, a number of alternative estimators that make efficient use of the available data have been developed. However, choosing an estimator is not trivial since the study of their relative merits focuses on the speed of convergence to their asymptotic distributions. This in itself is not necessarily a reliable guide to finite sample performance, especially for cases when there is violation of assumptions on the price or noise process. Nonetheless, the covariation between asset returns plays a crucial role in modern finance in portfolio optimization, risk management and asset pricing. The paper is an effort towards estimating a covariance matrix using high-frequency data (quadratic covariation) from the portfolio selection perspective. Besides the significant increase in the sample size for estimation of the covariance matrix, use of HFD also enables for better adaptation to the local volatilities and correlations amongst a vast number of assets. This thus leads to an an improved estimation of portfolio variance. 1-minute, 5-minute, 30-minute and daily sampled forex data were used across the six major world currencies; i.e. EUR/USD, EUR/JPY, EUR/CHF, EUR/GBP, EUR/AUD and EUR/CAD. Covariancematrices based on intraday returns were constructed and evaluated.
 
 **Keywords: High Frequency Data, QMLE, Portfolio Optimization, Covariance Matrix**
-![Image](src)
-[Link](https://academicjournals.org/journal/JEIF/article-in-press-abstract/currency_portfolio_optimization_with_an_innovative_covariance_matrix_estimator_qmle)
+![](https://user-images.githubusercontent.com/50427374/164798949-fd510174-8dbf-4e5b-ab3e-24b7b7a21cd0.png)
+[](https://academicjournals.org/journal/JEIF/article-in-press-abstract/currency_portfolio_optimization_with_an_innovative_covariance_matrix_estimator_qmle)
 
 ### Weather Shocks and Commodity Spot Prices
 
