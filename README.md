@@ -43,7 +43,7 @@ l)
 Energy remains an essential pillar for human livelihood for its necessity in sustainability and development of any current civilization. One of the main feature distinguishing it from most of the other commodities is the mean-reverting characteristic together with evident spikes and high volatility as seen for electricity and crude oil prices. Here, we’ll look at crude oil daily spot prices. A number of works have employed the Ornstein–Uhlenbeck process to model directly the dynamics over time of different commodity spot prices under reduced-form one-factor models (Ribeiro and Hodges, 2004). Nonetheless, in recent studies, crude oil spot price has also been modelled as a jump-diffusion process, as attributed to Merton (1976), as in Jorion (1988) for asset returns and Ball & Torous (1983) for foreign exchange and other securities. Moreover, due to the presence of skewness and fat tails in the empirical distribution of oil price returns, the series is more effectively modeled using Levy models which assign higher probabilities to sudden unexpected events unlike the gaussian models like Black Scholes model. These jump-diffusion models incorporate jumps into a diffusion process through a Poisson process with parameter, λ.
 
 **Keywords: Crude Oil Price Modeling, Jump-diffusion models, Poisson process**
-![Image](/home/rancy/Documents/crude_oil_price.png)
+![crude_oil_price](https://user-images.githubusercontent.com/50427374/164797859-f7d15ddc-acd5-4b0e-a3ec-6586db244597.png)
 [Link](https://rpubs.com/Rancy/636078)
 
 ### Carbon Emission Modeling
@@ -51,7 +51,7 @@ Energy remains an essential pillar for human livelihood for its necessity in sus
 Energy remains an essential pillar for human livelihood for its necessity in sustainability and development of any current civilization. One of the main feature distinguishing it from most of the other commodities is the mean-reverting characteristic together with evident spikes and high volatility as seen for electricity prices. Here, we’ll look at carbon emission in Kenya. A number of works have employed the Ornstein–Uhlenbeck process to model directly the dynamics over time of different commodity spot prices under reduced-form one-factor models (Ribeiro and Hodges, 2004). Here, we derive the analytical solution to the stochastic differential equation for the Ornstein-Uhlenbeck process: dXt=κ(θ−Xt)dt+σdWt where the Wt is a standard wiener process, and κ>0, θ and σ>0 Motivated by the observation that θ is supposed to be the long-term mean of the process Xt, we can simplify the above SDE by introducing the change of variable; Yt=Xt−θ that subtracts off the mean. The Yt satisfies the SDE; dYt=dXt=−κYtdt+σdWt for this SDE, the process Yt is seen to have a drift towards zero value, at an exponential rate κ. This motivates the change of variables; Yt=e−κtZt ⇔ Zt=eκtYt , which should remove the drift. The O-U process does a pretty good work on our dataset.
 
 **Keywords: O-U process, Carbon emission**
-![Image](/home/rancy/Documents/carbon_emission_levels.png)
+![carbon_emission_levels](https://user-images.githubusercontent.com/50427374/164798021-7929a641-b669-44f9-a1c9-29b4004c0dd5.png)
 [Link](https://rpubs.com/Rancy/624898)
 
 ## AI Projects
