@@ -59,8 +59,7 @@ Energy remains an essential pillar for human livelihood for its necessity in sus
 The goal of this project was to build a model that lenders can use to help make the best financial decisions regarding the customers to lend and those not to lend. Therefore, the main goal is to build a state-of-the-art credit scoring model by predicting the probability that somebody will experience financial distress in the next two years. This is a binary classification problem with classes; 0 : Not deliquent & 1: Deliquency (Kaggle Challenge). The study took into consideration four main classifiers including; Logistic Regression, Random Forest, Decision Trees and k-Nearest Neighbours.
 
 **Keywords: Binary Classification, Credit Scoring, Logistic Regression, k-NN, Decision Trees**
-![Image](src)
-[Link](url)
+![](https://user-images.githubusercontent.com/50427374/164799797-2d23bc8a-64eb-4fe4-900b-af57b64a3789.png)
 
 ## Foundational / General Projects
 <!-- 
@@ -75,13 +74,3 @@ The goal of this project was to build a model that lenders can use to help make 
 
 [Link](url) and ![Image](src) -->
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RancyChepchirchir/RancyChepchirchir.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
