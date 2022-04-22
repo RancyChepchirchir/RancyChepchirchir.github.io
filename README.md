@@ -18,8 +18,8 @@ Syntax highlighted code block -->
 This study examines the impact of introduction of futures trading on the spot price volatility in the commodity market. The paper considers the United States of America, South Africa and Ethiopian economies. Three commodities i.e. coffee, maize and wheat from New York Mercantile Exchange, South African Futures Exchange and Ethiopian Commodity Exchange are analyzed. ARCH LM test is used to check for heteroskedasticity and GARCH and EGARCH are used to check for the behavior of volatility for the pre- and post-futures periods. For all the three economies, the results indicate presence of the ARCH effect in the log returns. For conditional and unconditional variances; spot price volatility for coffee has decreased after futures trading across all the economies and the EGARCH has also shown reduction in persistence of volatility in the post-futures period in the three economies; while that of maize has reduced for the Ethiopian economy but increased in both the US and South African economies. For wheat, the conditional variance has been found to rise in the post-futures period in all the three economies. These results imply that more positive feedback from futures trading is bound to be seen for maize in the less developed economies as opposed to the developed economies as opposed to the other products. This paper has focused on the overlooked factor by earlier researchers, i.e. of economic-gap amongst countries, in looking at the impact of the futures trading on the spot price variation.
 
 **Keywords: derivatives, futures exchange, agricultural commodities, spot price volatility**
-[Link](url)
-![Image](src)
+[Link](http://pubs.sciepub.com/jfe/5/3/1/index.html#Figure4)
+![Image](/home/rancy/Documents/futures_market.png)
 
 ### Currency Portfolio Optimization With an Innovative Covariance Matrix Estimator (qmle)
 
@@ -27,14 +27,14 @@ With the advent of high frequency data, the sum of squared returns between trade
 
 **Keywords: High Frequency Data, QMLE, Portfolio Optimization, Covariance Matrix**
 ![Image](src)
-[Link](url)
+[Link](https://academicjournals.org/journal/JEIF/article-in-press-abstract/currency_portfolio_optimization_with_an_innovative_covariance_matrix_estimator_qmle)
 
 ### Weather Shocks and Commodity Spot Prices
 
 The study was conducted across three agricultural commodities, namely; corn, cotton and wheat against a number of weather variables, including; temperature, rainfall, precipitation, sea level pressure, snow, fog and hail. This is after dropping a number of weather variables that are highly correlated from the correlation matrix. The results indicate significance of these exogenous variables in explaining the price variations as seen from the p-values of 0.00 across the three commodities. The SARIMAX prediction also did well for Corn and Cotton prices as seen by the sufficiently high r2 score as opposed to the estimate gotten from wheat. (Yet to study the same applying AI techniques).
 
 **Keywords: SARIMAX, Weather Shocks, Price Volatility**
-![Image](src)
+![Image](/home/rancy/Documents/time_series_snow.png)
 [Link](url)
 
 ### Crude Oil Price Modeling
@@ -42,16 +42,16 @@ The study was conducted across three agricultural commodities, namely; corn, cot
 Energy remains an essential pillar for human livelihood for its necessity in sustainability and development of any current civilization. One of the main feature distinguishing it from most of the other commodities is the mean-reverting characteristic together with evident spikes and high volatility as seen for electricity and crude oil prices. Here, we’ll look at crude oil daily spot prices. A number of works have employed the Ornstein–Uhlenbeck process to model directly the dynamics over time of different commodity spot prices under reduced-form one-factor models (Ribeiro and Hodges, 2004). Nonetheless, in recent studies, crude oil spot price has also been modelled as a jump-diffusion process, as attributed to Merton (1976), as in Jorion (1988) for asset returns and Ball & Torous (1983) for foreign exchange and other securities. Moreover, due to the presence of skewness and fat tails in the empirical distribution of oil price returns, the series is more effectively modeled using Levy models which assign higher probabilities to sudden unexpected events unlike the gaussian models like Black Scholes model. These jump-diffusion models incorporate jumps into a diffusion process through a Poisson process with parameter, λ.
 
 **Keywords: Crude Oil Price Modeling, Jump-diffusion models, Poisson process**
-![Image](src)
-[Link](url)
+![Image](/home/rancy/Documents/crude_oil_price.png)
+[Link](https://rpubs.com/Rancy/636078)
 
 ### Carbon Emission Modeling
 
 Energy remains an essential pillar for human livelihood for its necessity in sustainability and development of any current civilization. One of the main feature distinguishing it from most of the other commodities is the mean-reverting characteristic together with evident spikes and high volatility as seen for electricity prices. Here, we’ll look at carbon emission in Kenya. A number of works have employed the Ornstein–Uhlenbeck process to model directly the dynamics over time of different commodity spot prices under reduced-form one-factor models (Ribeiro and Hodges, 2004). Here, we derive the analytical solution to the stochastic differential equation for the Ornstein-Uhlenbeck process: dXt=κ(θ−Xt)dt+σdWt where the Wt is a standard wiener process, and κ>0, θ and σ>0 Motivated by the observation that θ is supposed to be the long-term mean of the process Xt, we can simplify the above SDE by introducing the change of variable; Yt=Xt−θ that subtracts off the mean. The Yt satisfies the SDE; dYt=dXt=−κYtdt+σdWt for this SDE, the process Yt is seen to have a drift towards zero value, at an exponential rate κ. This motivates the change of variables; Yt=e−κtZt ⇔ Zt=eκtYt , which should remove the drift. The O-U process does a pretty good work on our dataset.
 
 **Keywords: O-U process, Carbon emission**
-![Image](src)
-[Link](url)
+![Image](/home/rancy/Documents/carbon_emission_levels.png)
+[Link](https://rpubs.com/Rancy/624898)
 
 ## AI Projects
 
