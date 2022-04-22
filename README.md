@@ -19,7 +19,7 @@ This study examines the impact of introduction of futures trading on the spot pr
 
 **Keywords: derivatives, futures exchange, agricultural commodities, spot price volatility**
 [](http://pubs.sciepub.com/jfe/5/3/1/index.html#Figure4)
-![](/home/rancy/Documents/futures_market.png)
+![](file:///home/rancy/Documents/futures_market.png)
 
 ### Currency Portfolio Optimization With an Innovative Covariance Matrix Estimator (qmle)
 
