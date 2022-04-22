@@ -18,8 +18,8 @@ Syntax highlighted code block -->
 This study examines the impact of introduction of futures trading on the spot price volatility in the commodity market. The paper considers the United States of America, South Africa and Ethiopian economies. Three commodities i.e. coffee, maize and wheat from New York Mercantile Exchange, South African Futures Exchange and Ethiopian Commodity Exchange are analyzed. ARCH LM test is used to check for heteroskedasticity and GARCH and EGARCH are used to check for the behavior of volatility for the pre- and post-futures periods. For all the three economies, the results indicate presence of the ARCH effect in the log returns. For conditional and unconditional variances; spot price volatility for coffee has decreased after futures trading across all the economies and the EGARCH has also shown reduction in persistence of volatility in the post-futures period in the three economies; while that of maize has reduced for the Ethiopian economy but increased in both the US and South African economies. For wheat, the conditional variance has been found to rise in the post-futures period in all the three economies. These results imply that more positive feedback from futures trading is bound to be seen for maize in the less developed economies as opposed to the developed economies as opposed to the other products. This paper has focused on the overlooked factor by earlier researchers, i.e. of economic-gap amongst countries, in looking at the impact of the futures trading on the spot price variation.
 
 **Keywords: derivatives, futures exchange, agricultural commodities, spot price volatility**
-[Futures Market](http://pubs.sciepub.com/jfe/5/3/1/index.html#Figure4)
-![Journal](/home/rancy/Documents/futures_market.png)
+[](http://pubs.sciepub.com/jfe/5/3/1/index.html#Figure4)
+![](/home/rancy/Documents/futures_market.png)
 
 ### Currency Portfolio Optimization With an Innovative Covariance Matrix Estimator (qmle)
 
