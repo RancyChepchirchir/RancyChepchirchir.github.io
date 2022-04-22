@@ -19,7 +19,7 @@ This study examines the impact of introduction of futures trading on the spot pr
 
 **Keywords: derivatives, futures exchange, agricultural commodities, spot price volatility**
 [](http://pubs.sciepub.com/jfe/5/3/1/index.html#Figure4)
-![](file:///home/rancy/Documents/futures_market.png)
+![futures_market](https://user-images.githubusercontent.com/50427374/164796942-0e56ee97-fb5c-4b08-9508-71a358121b42.png)
 
 ### Currency Portfolio Optimization With an Innovative Covariance Matrix Estimator (qmle)
 
@@ -35,7 +35,8 @@ The study was conducted across three agricultural commodities, namely; corn, cot
 
 **Keywords: SARIMAX, Weather Shocks, Price Volatility**
 ![Image](/home/rancy/Documents/time_series_snow.png)
-[Link](url)
+![time_series_snow](https://user-images.githubusercontent.com/50427374/164797153-b40b9d95-6e04-456b-8ef6-5ee72148f31a.png)
+l)
 
 ### Crude Oil Price Modeling
 
